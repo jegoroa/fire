@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    background: cornsilk;
+}
+
+header{
+    background: lightblue;
+    padding: 25px;
+}
+
+header a{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 50px;
+    border-radius: 50px;
+    color: rgb(18, 217, 21);
+    background: orange;
+}
+
+nav{
+    background: rgba(8, 8, 8, 0.697);
+    padding: 12px;
+}
+
+nav a{
+    text-decoration: none;
+    background: rgb(104, 219, 96);
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(212, 36, 36);
+}
+
+main p{
+    background: orchid;
+    padding: 40px;
+    width: 40%;
+    text-align: center;
+    margin-left: 23%;
+}
+
+h1, h2{
+    text-align: center;
+    background: cornflowerblue;
+}
+
+footer{
+    background: darkgrey;
+}
